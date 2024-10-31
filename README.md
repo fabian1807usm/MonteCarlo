@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este notebook de Jupyter, `MONTE_CARLO.ipynb`, contiene una simulación de Monte Carlo diseñada para modelar [describir el modelo que esta descrito en el paper "Síntesis de Poblaciones Estelares en la Vía Láctea mediante Simulación de Monte Carlo"]. La simulación genera diversas poblaciones estelares, calcula sus tiempos de vida y clasifica los remanentes en distintos tipos en función de la masa inicial y otras condiciones físicas.
+Este notebook de Jupyter, `MONTE_CARLO.ipynb`, contiene una simulación de Monte Carlo diseñada. [El modelo que esta descrito en el paper "Síntesis de Poblaciones Estelares en la Vía Láctea mediante Simulación de Monte Carlo"]. La simulación genera diversas poblaciones estelares, calcula sus tiempos de vida y clasifica los remanentes en distintos tipos en función de la masa inicial y otras condiciones físicas.
 
 ## Contenido
 
